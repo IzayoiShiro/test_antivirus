@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test_antivirus</string>
+    <string name="finish">病毒查杀已经完毕，请打赏点儿吧！</string>
+</resources>
